@@ -1,0 +1,5 @@
+# Alle Pakete für client.py (mit Bondrucker)
+requests
+python-escpos
+pyusb
+# client_ohne_druck.py braucht nur:  requests
